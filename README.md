@@ -1,2 +1,2 @@
 # NKNIHSS
-NKNIHSS Android Native Application
+NKNIHSS Android Application
