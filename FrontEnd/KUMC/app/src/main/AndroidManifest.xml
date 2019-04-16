@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nknihss.kumc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/brain"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/brain"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EnterActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".IntroductionActivity" />
+        <activity android:name=".SelectActivity" />
+        <activity android:name=".UserActivity" />
+        <activity android:name=".OneAActivity" />
+        <activity android:name=".PopOneA" />
+        <activity android:name=".OneBActivity" />
+        <activity android:name=".PopOneB" />
+        <activity android:name=".OneCActivity" />
+        <activity android:name=".PopOneC" />
+        <activity android:name=".TwoActivity" />
+        <activity android:name=".PopTwo" />
+        <activity android:name=".TwoOneActivity" />
+        <activity android:name=".PopTwoOne" />
+        <activity android:name=".TwoTwoActivity" />
+        <activity android:name=".PopTwoTwo" />
+        <activity android:name=".TwoThreeActivity" />
+        <activity android:name=".PopTwoThree" />
+        <activity android:name=".ThreeActivity" />
+        <activity android:name=".PopThree" />
+        <activity android:name=".FourActivity" />
+        <activity android:name=".PopFour" />
+        <activity android:name=".FourOneActivity"></activity>
+        <activity android:name=".PopFourOne" />
+        <activity android:name=".FourTwoActivity" />
+        <activity android:name=".PopFourTwo" />
+        <activity android:name=".FiveAActivity" />
+        <activity android:name=".PopFiveA" />
+        <activity android:name=".FiveBActivity" />
+        <activity android:name=".SixAActivity" />
+        <activity android:name=".PopSixA" />
+        <activity android:name=".SixBActivity" />
+        <activity android:name=".SevenActivity" />
+        <activity android:name=".PopSeven" />
+        <activity android:name=".SevenTwoActivity" />
+        <activity android:name=".PopSevenTwo" />
+        <activity android:name=".PopVideo" />
+        <activity android:name=".EightActivity" />
+        <activity android:name=".PopEight" />
+        <activity android:name=".NineActivity" />
+        <activity android:name=".PopNine" />
+        <activity android:name=".TenActivity" />
+        <activity android:name=".PopTen" />
+        <activity android:name=".ElevenActivity" />
+        <activity android:name=".PopEleven" />
+        <activity android:name=".CheckActivity" />
+        <activity android:name=".ResultActivity" />
+
+    </application>
+
+</manifest>
