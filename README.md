@@ -12,29 +12,11 @@ New - Korean version of National Institutes of Health Stroke Scale Android Appli
 
 ---
 
-```
-<img src="markdown/main.jpg" width=100%/>
-```
+<img src="markdown/main.jpg" width=30%/>  <img src="markdown/intro.jpg" width=30%/>  <img src="markdown/select.jpg" width=30%/>
 
-```
-<img src="markdown/intro.jpg" width=100%/>
-```
 
-```
-<img src="markdown/select.jpg" width=100%/>
-```
 
-```
-<img src="markdown/user.jpg" width=100% />
-```
-
-```
-<img src="markdown/survey.jpg" width=100%/>
-```
-
-```
-<img src="markdown/information.jpg" width=100%/>
-```
+<img src="markdown/user.jpg" width=30% />  <img src="markdown/survey.jpg" width=30%/>  <img src="markdown/information.jpg" width=30%/>
 
 
 
